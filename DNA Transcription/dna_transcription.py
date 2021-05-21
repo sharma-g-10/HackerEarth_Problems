@@ -8,7 +8,7 @@ for l in range((len(x))):
          break
          
 if flag==True:
-    for l in range((len(x))):  
+    for l in range((len(x))): 
          if x[l] == 'C':
              print("G",end="")
          elif x[l]=='G':
